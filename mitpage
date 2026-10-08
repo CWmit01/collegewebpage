@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>mit College</title>
+</head>
+<body>
+
+    <h1>ABC College</h1>
+    <p>Welcome to ABC College</p>
+
+    <nav>
+        <a href="#">Home</a> |
+        <a href="#">About</a> |
+        <a href="#">Courses</a> |
+        <a href="#">Contact</a>
+    </nav>
+
+    <h2>About Us</h2>
+    <p>ABC College provides quality education and a great learning environment.</p>
+
+    <h2>Courses</h2>
+    <ul>
+        <li>BCA</li>
+        <li>BBA</li>
+        <li>B.Sc</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: info@abccollege.com</p>
+
+    <footer>
+        <p>&copy; 2026 ABC College</p>
+    </footer>
+
+</body>
+</html>
+
